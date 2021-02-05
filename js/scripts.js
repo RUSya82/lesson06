@@ -38,7 +38,7 @@ function game(targetNumber) {
 
 /**
  * Функция получает от пользователя число, переделал на рекурсив
- * @param message
+ * @param message 1
  * @param defaultValue
  * @returns {number}
  */
